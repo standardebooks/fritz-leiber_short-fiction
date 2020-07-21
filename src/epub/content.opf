@@ -96,7 +96,6 @@
 		<item href="text/pipe-dream.xhtml" id="pipe-dream.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-64-square-madhouse.xhtml" id="the-64-square-madhouse.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-big-engine.xhtml" id="the-big-engine.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/the-big-time.xhtml" id="the-big-time.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-creature-from-cleveland-depths.xhtml" id="the-creature-from-cleveland-depths.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-last-letter.xhtml" id="the-last-letter.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-moon-is-green.xhtml" id="the-moon-is-green.xhtml" media-type="application/xhtml+xml"/>
@@ -126,7 +125,6 @@
 		<itemref idref="pipe-dream.xhtml"/>
 		<itemref idref="the-64-square-madhouse.xhtml"/>
 		<itemref idref="the-big-engine.xhtml"/>
-		<itemref idref="the-big-time.xhtml"/>
 		<itemref idref="the-creature-from-cleveland-depths.xhtml"/>
 		<itemref idref="the-last-letter.xhtml"/>
 		<itemref idref="the-moon-is-green.xhtml"/>

@@ -40,8 +40,31 @@
 		<meta id="long-description" property="se:long-description" refines="#description">
 			LONG_DESCRIPTION
 		</meta>
-		<dc:language>LANG</dc:language>
-		<dc:source>PG_URL</dc:source>
+		<dc:language>en-US</dc:language>
+		<dc:source>https://www.gutenberg.org/ebooks/61213</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/23164</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/51493</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/50819</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/29504</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/29662</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/51101</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/23162</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/52776</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/50753</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/61243</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/22579</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/51436</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/53042</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/51380</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/51530</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/50905</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/51353</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/60664</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/51549</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/51461</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/51082</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/51152</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/25024</dc:source>
 		<meta property="se:production-notes">Any special notes about the production of this ebook for future editors/producers? Remove this element if not.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>

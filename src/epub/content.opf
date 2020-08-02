@@ -41,30 +41,54 @@
 			LONG_DESCRIPTION
 		</meta>
 		<dc:language>en-US</dc:language>
-		<dc:source>https://www.gutenberg.org/ebooks/50753</dc:source> <!-- Later Thank You Think -->
-		<dc:source>https://www.gutenberg.org/ebooks/51082</dc:source> <!-- Coming Attractions -->
-		<dc:source>https://www.gutenberg.org/ebooks/51101</dc:source> <!-- Nice Girl With 5 Husbands -->
-		<dc:source>https://www.gutenberg.org/ebooks/51152</dc:source> <!-- Appointment In Tomorrow -->
-		<dc:source>https://www.gutenberg.org/ebooks/51461</dc:source> <!-- A Pail Of Air -->
-		<dc:source>https://www.gutenberg.org/ebooks/51353</dc:source> <!-- Dr. Kometevsky's Day -->
-		<dc:source>https://www.gutenberg.org/ebooks/29662</dc:source> <!-- The Moon Is Green -->
-		<dc:source>https://www.gutenberg.org/ebooks/50905</dc:source> <!-- Yesterday House -->
-		<dc:source>https://www.gutenberg.org/ebooks/50819</dc:source> <!-- A Bad Day For Sales -->
-		<dc:source>https://www.gutenberg.org/ebooks/51380</dc:source> <!-- Time In The Round -->
-		<dc:source>https://www.gutenberg.org/ebooks/29504</dc:source> <!-- What's He Doing In There -->
-		<dc:source>https://www.gutenberg.org/ebooks/22579</dc:source> <!-- Bread Overhead -->
-		<dc:source>https://www.gutenberg.org/ebooks/51530</dc:source> <!-- The Last Letter -->
-		<dc:source>https://www.gutenberg.org/ebooks/51436</dc:source> <!-- Bullet With His Name -->
-		<dc:source>https://www.gutenberg.org/ebooks/60664</dc:source> <!-- Pipe Dream -->
-		<dc:source>https://www.gutenberg.org/ebooks/25024</dc:source> <!-- The Night Of The Long Knives -->
-		<dc:source>https://www.gutenberg.org/ebooks/51493</dc:source> <!-- Kreativity For Kats -->
-		<dc:source>https://www.gutenberg.org/ebooks/51549</dc:source> <!-- The Big Engine -->
-		<dc:source>https://www.gutenberg.org/ebooks/61213</dc:source> <!-- The 64-Square Madhouse -->
-		<dc:source>https://www.gutenberg.org/ebooks/61243</dc:source> <!-- The Snowbank Orbit -->
-		<dc:source>https://www.gutenberg.org/ebooks/23164</dc:source> <!-- The Creature From Cleveland Depths -->
-		<dc:source>https://www.gutenberg.org/ebooks/52776</dc:source> <!-- X Marks The Pedwalk -->
-		<dc:source>https://www.gutenberg.org/ebooks/53042</dc:source> <!-- A Hitch In Space -->
-		<dc:source>https://www.gutenberg.org/ebooks/23162</dc:source> <!-- No Great Magic -->
+		<dc:source>https://www.gutenberg.org/ebooks/50753</dc:source>
+		<!-- Later Thank You Think -->
+		<dc:source>https://www.gutenberg.org/ebooks/51082</dc:source>
+		<!-- Coming Attractions -->
+		<dc:source>https://www.gutenberg.org/ebooks/51101</dc:source>
+		<!-- Nice Girl With 5 Husbands -->
+		<dc:source>https://www.gutenberg.org/ebooks/51152</dc:source>
+		<!-- Appointment In Tomorrow -->
+		<dc:source>https://www.gutenberg.org/ebooks/51461</dc:source>
+		<!-- A Pail Of Air -->
+		<dc:source>https://www.gutenberg.org/ebooks/51353</dc:source>
+		<!-- Dr. Kometevsky's Day -->
+		<dc:source>https://www.gutenberg.org/ebooks/29662</dc:source>
+		<!-- The Moon Is Green -->
+		<dc:source>https://www.gutenberg.org/ebooks/50905</dc:source>
+		<!-- Yesterday House -->
+		<dc:source>https://www.gutenberg.org/ebooks/50819</dc:source>
+		<!-- A Bad Day For Sales -->
+		<dc:source>https://www.gutenberg.org/ebooks/51380</dc:source>
+		<!-- Time In The Round -->
+		<dc:source>https://www.gutenberg.org/ebooks/29504</dc:source>
+		<!-- What's He Doing In There -->
+		<dc:source>https://www.gutenberg.org/ebooks/22579</dc:source>
+		<!-- Bread Overhead -->
+		<dc:source>https://www.gutenberg.org/ebooks/51530</dc:source>
+		<!-- The Last Letter -->
+		<dc:source>https://www.gutenberg.org/ebooks/51436</dc:source>
+		<!-- Bullet With His Name -->
+		<dc:source>https://www.gutenberg.org/ebooks/60664</dc:source>
+		<!-- Pipe Dream -->
+		<dc:source>https://www.gutenberg.org/ebooks/25024</dc:source>
+		<!-- The Night Of The Long Knives -->
+		<dc:source>https://www.gutenberg.org/ebooks/51493</dc:source>
+		<!-- Kreativity For Kats -->
+		<dc:source>https://www.gutenberg.org/ebooks/51549</dc:source>
+		<!-- The Big Engine -->
+		<dc:source>https://www.gutenberg.org/ebooks/61213</dc:source>
+		<!-- The 64-Square Madhouse -->
+		<dc:source>https://www.gutenberg.org/ebooks/61243</dc:source>
+		<!-- The Snowbank Orbit -->
+		<dc:source>https://www.gutenberg.org/ebooks/23164</dc:source>
+		<!-- The Creature From Cleveland Depths -->
+		<dc:source>https://www.gutenberg.org/ebooks/52776</dc:source>
+		<!-- X Marks The Pedwalk -->
+		<dc:source>https://www.gutenberg.org/ebooks/53042</dc:source>
+		<!-- A Hitch In Space -->
+		<dc:source>https://www.gutenberg.org/ebooks/23162</dc:source>
+		<!-- No Great Magic -->
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">EBOOK_WIKI_URL</meta>

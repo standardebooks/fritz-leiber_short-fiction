@@ -89,6 +89,7 @@
 		<!-- A Hitch In Space -->
 		<dc:source>https://www.gutenberg.org/ebooks/23162</dc:source>
 		<!-- No Great Magic -->
+		<meta property="se:production-notes">The 64-Square Madhouse chapters missing 2 and 3, started at 4, so renumbered 4 to 2, etc.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">EBOOK_WIKI_URL</meta>

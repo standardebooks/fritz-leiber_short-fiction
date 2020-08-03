@@ -42,3 +42,9 @@
 abbr.era{
 	font-variant: all-small-caps;
 }
+
+figure{
+	margin: 1em auto;
+	text-align: center;
+}
+

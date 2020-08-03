@@ -1,11 +1,6 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
-p span.i1{
-	text-indent: -1em;
-	padding-left: 2em;
-}
-
 [epub|type~="z3998:song"] p{
 	text-align: left;
 	text-indent: 0;
@@ -37,6 +32,11 @@ p span.i1{
 [epub|type~="z3998:poem"] p > span + br,
 [epub|type~="z3998:verse"] p > span + br{
 	display: none;
+}
+
+[epub|type~="z3998:poem"] p span.i1{
+	text-indent: -1em;
+	padding-left: 2em;
 }
 
 abbr.era{

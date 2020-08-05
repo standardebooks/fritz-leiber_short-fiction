@@ -30,12 +30,16 @@
 		<dc:title id="title">Short Fiction</dc:title>
 		<meta property="file-as" refines="#title">Short Fiction</meta>
 		<dc:subject id="subject-1">Science fiction</dc:subject>
-		<dc:subject id="subject-2">SUBJECT_2</dc:subject>
+		<dc:subject id="subject-2">Short stories</dc:subject>
+		<dc:subject id="subject-3">Science fiction, American</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
-		<meta property="term" refines="#subject-1">LCSH_ID_1</meta>
+		<meta property="term" refines="#subject-1">sh85118629</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
-		<meta property="term" refines="#subject-2">LCSH_ID_2</meta>
-		<meta property="se:subject">TAG</meta>
+		<meta property="term" refines="#subject-2">sh85121813</meta>
+		<meta property="authority" refines="#subject-3">LCSH</meta>
+		<meta property="term" refines="#subject-3">sh85118637</meta>
+		<meta property="se:subject">Science Fiction</meta>
+		<meta property="se:subject">Shorts</meta>
 		<dc:description id="description">A collection of Fritz Leiber short stories and novellas ordered by date of publication.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			LONG_DESCRIPTION
@@ -92,7 +96,7 @@
 		<meta property="se:production-notes">The 64-Square Madhouse chapters missing 2 and 3, started at 4, so renumbered 4 to 2, etc.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
-		<meta property="se:url.encyclopedia.wikipedia">EBOOK_WIKI_URL</meta>
+		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Fritz_Leiber_bibliography#Short_stories</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/fritz-leiber_short-fiction</meta>
 		<dc:creator id="author">Fritz Leiber</dc:creator>
 		<meta property="file-as" refines="#author">Leiber, Fritz</meta>

@@ -16,34 +16,4 @@
 			<reason>Ending punctuation inside italics. Ending punctuation is only allowed within italics if the phrase is an independent clause.</reason>
 		</ignore>
 	</file>
-	<file path="the-64-square-madhouse.xhtml">
-		<ignore>
-			<code>t-002</code>
-			<reason>Comma or period outside of double quote. Generally punctuation goes within single and double quotes.</reason>
-		</ignore>
-	</file>
-	<file path="the-big-engine.xhtml">
-		<ignore>
-			<code>t-002</code>
-			<reason>Comma or period outside of double quote. Generally punctuation goes within single and double quotes.</reason>
-		</ignore>
-	</file>
-	<file path="the-creature-from-cleveland-depths.xhtml">
-		<ignore>
-			<code>t-002</code>
-			<reason>Comma or period outside of double quote. Generally punctuation goes within single and double quotes.</reason>
-		</ignore>
-	</file>
-	<file path="pipe-dream.xhtml">
-		<ignore>
-			<code>t-002</code>
-			<reason>Comma or period outside of double quote. Generally punctuation goes within single and double quotes.</reason>
-		</ignore>
-	</file>
-	<file path="the-night-of-the-long-knives.xhtml">
-		<ignore>
-			<code>s-060</code>
-			<reason>Italics on name that requires quotes instead.</reason>
-		</ignore>
-	</file>
 </se-lint-ignore>

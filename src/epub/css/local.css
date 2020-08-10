@@ -34,7 +34,7 @@
 	display: none;
 }
 
-[epub|type~="z3998:poem"] p span.i1{
+[epub|type~="z3998:verse"] p span.i1{
 	text-indent: -1em;
 	padding-left: 2em;
 }
@@ -45,7 +45,6 @@
 	-epub-hyphens: none;
 }
 
-[epub|type~="epigraph"] em,
 [epub|type~="epigraph"] i{
 	font-style: normal;
 }

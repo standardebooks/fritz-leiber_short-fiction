@@ -12,10 +12,6 @@
 			<reason>Empty element. Use <hr/> for thematic breaks if appropriate.</reason>
 		</ignore>
 		<ignore>
-			<code>t-030</code>
-			<reason>Initialism with spaces or without periods.</reason>
-		</ignore>
-		<ignore>
 			<code>t-041</code>
 			<reason>Illegal space before punctuation.</reason>
 		</ignore>

@@ -68,6 +68,10 @@ figure{
 	text-align: center;
 }
 
+abbr.temperature{
+	font-variant: all-small-caps;
+}
+
 #the-64-square-madhouse .teletype{
 	font-variant: all-small-caps;
 }

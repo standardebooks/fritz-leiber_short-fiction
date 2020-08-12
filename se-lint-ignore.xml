@@ -16,12 +16,6 @@
 			<reason>Illegal space before punctuation.</reason>
 		</ignore>
 	</file>
-	<file path="the-night-of-the-long-knives.xhtml">
-		<ignore>
-			<code>t-030</code>
-			<reason>Initialism with spaces or without periods.</reason>
-		</ignore>
-	</file>
 	<file path="yesterday-house.xhtml">
 		<ignore>
 			<code>t-017</code>

@@ -34,16 +34,32 @@
 	display: none;
 }
 
-[epub|type~="z3998:poem"] p span.i1{
+[epub|type~="z3998:verse"] p span.i1{
 	text-indent: -1em;
 	padding-left: 2em;
 }
 
-abbr.era{
-	font-variant: all-small-caps;
+[epub|type~="epigraph"]{
+	font-style: italic;
+	hyphens: none;
+	-epub-hyphens: none;
 }
 
-.teletype{
+[epub|type~="epigraph"] i{
+	font-style: normal;
+}
+
+[epub|type~="epigraph"] cite{
+	margin-top: 1em;
+	font-style: normal;
+	font-variant: small-caps;
+}
+
+[epub|type~="epigraph"] cite i{
+	font-style: italic;
+}
+
+abbr.era{
 	font-variant: all-small-caps;
 }
 
@@ -52,11 +68,16 @@ figure{
 	text-align: center;
 }
 
-[epub|type~="z3998:newspaper"] header p{
-	font-variant: small-caps;
-	margin-bottom: 1em;
+#the-64-square-madhouse .teletype{
+	font-variant: all-small-caps;
 }
 
-blockquote table thead{
+#the-64-square-madhouse blockquote table thead{
 	font-variant: small-caps;
+}
+
+#the-64-square-madhouse blockquote header p{
+	font-variant: small-caps;
+	font-weight: bold;
+	text-align: left;
 }

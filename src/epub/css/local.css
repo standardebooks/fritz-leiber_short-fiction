@@ -76,6 +76,15 @@ abbr.temperature{
 	font-variant: all-small-caps;
 }
 
+#the-64-square-madhouse blockquote{
+	margin: 1em auto;
+	text-align: center;
+}
+
+#the-64-square-madhouse blockquote table{
+	margin: 1em auto;
+}
+
 #the-64-square-madhouse blockquote table thead{
 	font-variant: small-caps;
 }
@@ -83,5 +92,8 @@ abbr.temperature{
 #the-64-square-madhouse blockquote header p{
 	font-variant: small-caps;
 	font-weight: bold;
+}
+
+#the-64-square-madhouse blockquote td{
 	text-align: left;
 }

@@ -46,7 +46,6 @@
 	-epub-hyphens: none;
 }
 
-[epub|type~="epigraph"] em,
 [epub|type~="epigraph"] i{
 	font-style: normal;
 }
@@ -66,24 +65,20 @@ header [epub|type~="epigraph"] cite{
 	font-variant: small-caps;
 }
 
-/* Epigraphs in section headers */
-section > header [epub|type~="epigraph"]{
+/* Epigraphs in article headers */
+article > header [epub|type~="epigraph"]{
 	display: inline-block;
 	margin: auto;
 	max-width: 80%;
 	text-align: left;
 }
 
-section > header [epub|type~="epigraph"] + *{
-	margin-top: 3em;
-}
-
 @supports(display: table){
-	section > header [epub|type~="epigraph"]{
+	article > header [epub|type~="epigraph"]{
 		display: table;
 	}
 }
-/* End epigraphs in section headers */
+/* End epigraphs in article headers */
 
 abbr.era{
 	font-variant: all-small-caps;

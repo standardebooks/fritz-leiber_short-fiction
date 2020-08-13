@@ -2,18 +2,14 @@
 <se-lint-ignore>
 	<file path="nice-girl-with-5-husbands.xhtml">
 		<ignore>
-			<code>s-010</code>
-			<reason>Empty element. Use <hr/> for thematic breaks if appropriate.</reason>
-		</ignore>
-		<ignore>
 			<code>t-041</code>
-			<reason>Illegal space before punctuation.</reason>
+			<reason>alttext attributes, operators must be separated by spaces: https://standardebooks.org/manual/1.0.0/8-typography#8.8.7.2.3.2</reason>
 		</ignore>
 	</file>
 	<file path="yesterday-house.xhtml">
 		<ignore>
 			<code>t-017</code>
-			<reason>Ending punctuation inside italics. Ending punctuation is only allowed within italics if the phrase is an independent clause.</reason>
+			<reason>'Annie O.' with the period is the name of the ship.</reason>
 		</ignore>
 	</file>
 </se-lint-ignore>

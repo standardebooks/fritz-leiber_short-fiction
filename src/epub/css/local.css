@@ -65,7 +65,20 @@ header [epub|type~="epigraph"] cite{
 	font-variant: small-caps;
 }
 
-/* Epigraphs in article headers */
+/* Epigraphs in headers */
+section > header [epub|type~="epigraph"]{
+	display: inline-block;
+	margin: auto;
+	max-width: 80%;
+	text-align: left;
+}
+
+@supports(display: table){
+	section > header [epub|type~="epigraph"]{
+		display: table;
+	}
+}
+
 article > header [epub|type~="epigraph"]{
 	display: inline-block;
 	margin: auto;
@@ -78,7 +91,7 @@ article > header [epub|type~="epigraph"]{
 		display: table;
 	}
 }
-/* End epigraphs in article headers */
+/* End epigraphs in headers */
 
 abbr.era{
 	font-variant: all-small-caps;

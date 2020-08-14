@@ -42,7 +42,7 @@
 		<meta property="se:subject">Shorts</meta>
 		<dc:description id="description">A collection of Fritz Leiber short stories and novellas ordered by date of publication.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/fritz-leiber"&gt;Frizt Leiber&lt;/a&gt; is most famous for his &lt;i&gt;Fafhrd&lt;/i&gt; and the &lt;i&gt;Gray Mouser&lt;/i&gt; stories, but he also wrote in many other genres. Between 1950 and 1963 he wrote a number of short stories that appeared in &lt;i&gt;Galaxy&lt;/i&gt; magazine, including one in the same universe as &lt;a href="https://standardebooks.org/ebooks/fritz-leiber/the-big-time"&gt;&lt;i&gt;The Big Time&lt;/i&gt;&lt;/a&gt; and the Change War stories (“No Great Magic”).&lt;/p&gt;
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/fritz-leiber"&gt;Fritz Leiber&lt;/a&gt; is most famous for his “Fafhrd and the Gray Mouser” stories, but he also wrote in many other genres. Between 1950 and 1963 he wrote a number of short stories that appeared in &lt;i&gt;Galaxy&lt;/i&gt; magazine, including one in the same universe as &lt;a href="https://standardebooks.org/ebooks/fritz-leiber/the-big-time"&gt;&lt;i&gt;The Big Time&lt;/i&gt;&lt;/a&gt; and the Change War stories (“No Great Magic”).&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<!-- Later Thank You Think -->

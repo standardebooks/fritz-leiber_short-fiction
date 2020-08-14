@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/fritz-leiber/short-fiction</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2020-08-14T18:15:58Z</dc:date>
+		<meta property="dcterms:modified">2020-08-14T18:15:58Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -42,7 +42,7 @@
 		<meta property="se:subject">Shorts</meta>
 		<dc:description id="description">A collection of Fritz Leiber short stories and novellas ordered by date of publication.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/fritz-leiber"&gt;Frizt Leiber&lt;/a&gt; is most famous for his &lt;i&gt;Fafhrd&lt;/i&gt; and the &lt;i&gt;Gray Mouser&lt;/i&gt; stories, but he also wrote in many other genres. Between 1950 and 1963 he wrote a number short stories that appeared in Galaxy magazine, including one in the same universe as &lt;i&gt;The Big Time&lt;/i&gt; and the Change War stories (“No Great Magic”).&lt;/p&gt;
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/fritz-leiber"&gt;Frizt Leiber&lt;/a&gt; is most famous for his &lt;i&gt;Fafhrd&lt;/i&gt; and the &lt;i&gt;Gray Mouser&lt;/i&gt; stories, but he also wrote in many other genres. Between 1950 and 1963 he wrote a number of short stories that appeared in &lt;i&gt;Galaxy&lt;/i&gt; magazine, including one in the same universe as &lt;a href="https://standardebooks.org/ebooks/fritz-leiber/the-big-time"&gt;&lt;i&gt;The Big Time&lt;/i&gt;&lt;/a&gt; and the Change War stories (“No Great Magic”).&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<!-- Later Thank You Think -->
@@ -117,8 +117,8 @@
 		<dc:source>https://www.pgdp.org/ols/tools/biblio.php?id=projectID46a8c5d53a741</dc:source>
 		<dc:source>https://www.gutenberg.org/ebooks/23162</dc:source>
 		<meta property="se:production-notes">The 64-Square Madhouse chapters missing 2 and 3, started at 4, so renumbered 4 to 2, etc.</meta>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">185409</meta>
+		<meta property="se:reading-ease.flesch">73.17</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Fritz_Leiber_bibliography#Short_stories</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/fritz-leiber_short-fiction</meta>
 		<dc:creator id="author">Fritz Leiber</dc:creator>
@@ -162,6 +162,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Vince Rice</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Rice, Vince</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://www.brokenandsaved.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>

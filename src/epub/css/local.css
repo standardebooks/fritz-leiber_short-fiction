@@ -136,6 +136,10 @@ blockquote header p{
 	text-align: left;
 }
 
+#yesterday-house blockquote header p{
+	text-indent: 0;
+}
+
 footer{
 	margin-top: 1em;
 	text-align: right;

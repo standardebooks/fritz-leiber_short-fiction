@@ -116,7 +116,11 @@
 		<!-- No Great Magic -->
 		<dc:source>https://www.pgdp.org/ols/tools/biblio.php?id=projectID46a8c5d53a741</dc:source>
 		<dc:source>https://www.gutenberg.org/ebooks/23162</dc:source>
-		<meta property="se:production-notes">The 64-Square Madhouse chapters missing 2 and 3, started at 4, so renumbered 4 to 2, etc.</meta>
+		<meta property="se:production-notes">
+			The 64-Square Madhouse chapters missing 2 and 3, started at 4, so renumbered 4 to 2, etc.
+
+			Leiber's source for Einstein's equations in Nice Girl with 5 Husbands appears to be a 1949 frontpage article for the New York Times: https://www.nytimes.com/1949/12/27/archives/new-einstein-theory-gives-a-master-key-to-universe-scientist-after.html
+		</meta>
 		<meta property="se:word-count">185409</meta>
 		<meta property="se:reading-ease.flesch">73.17</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Fritz_Leiber_bibliography#Short_stories</meta>

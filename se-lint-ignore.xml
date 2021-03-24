@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <se-lint-ignore>
-	<file path="nice-girl-with-5-husbands.xhtml">
-		<ignore>
-			<code>t-041</code>
-			<reason>alttext attributes, operators must be separated by spaces: https://standardebooks.org/manual/1.0.0/8-typography#8.8.7.2.3.2</reason>
-		</ignore>
-	</file>
 	<file path="yesterday-house.xhtml">
 		<ignore>
 			<code>t-017</code>

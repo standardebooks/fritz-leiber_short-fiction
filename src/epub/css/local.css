@@ -98,6 +98,7 @@ abbr.era{
 }
 
 figure{
+	break-inside: avoid;
 	margin: 1em auto;
 	text-align: center;
 }

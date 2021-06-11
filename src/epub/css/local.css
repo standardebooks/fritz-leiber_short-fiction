@@ -93,7 +93,7 @@ article > header [epub|type~="epigraph"]{
 }
 /* End epigraphs in headers */
 
-abbr.era{
+[epub|type~="se:era"]{
 	font-variant: all-small-caps;
 }
 
@@ -107,7 +107,7 @@ figure p{
 	text-indent: 0;
 }
 
-abbr.temperature{
+[epub|type~="se:temperature"]{
 	font-variant: all-small-caps;
 }
 

@@ -129,6 +129,7 @@ figure p{
 }
 
 #the-64-square-madhouse blockquote table{
+	font-variant-numeric: tabular-nums;
 	margin: 1em auto;
 }
 

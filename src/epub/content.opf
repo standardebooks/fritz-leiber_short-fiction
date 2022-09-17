@@ -72,6 +72,9 @@
 		<!-- A Bad Day For Sales -->
 		<dc:source>https://archive.org/details/galaxymagazine-1953-07</dc:source>
 		<dc:source>https://www.gutenberg.org/ebooks/50819</dc:source>
+		<!-- Friends and Enemies -->
+		<dc:source>https://archive.org/details/Infinity_v02n02_1957-04_ATLPM</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/68374</dc:source>
 		<!-- Time In The Round -->
 		<dc:source>https://archive.org/details/galaxymagazine-1957-05</dc:source>
 		<dc:source>https://www.gutenberg.org/ebooks/51380</dc:source>
@@ -171,6 +174,11 @@
 		<meta property="file-as" refines="#producer-2">Rice, Vince</meta>
 		<meta property="se:url.homepage" refines="#producer-2">https://www.brokenandsaved.com</meta>
 		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
+		<dc:contributor id="producer-3">Matic Likar</dc:contributor>
+		<meta property="file-as" refines="#producer-3">Likar, Matic</meta>
+		<meta property="se:role" refines="#producer-3" scheme="marc:relators">mrk</meta>
+		<meta property="se:role" refines="#producer-3" scheme="marc:relators">pfr</meta>
+		<meta property="role" refines="#producer-3" scheme="marc:relators">tyg</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>

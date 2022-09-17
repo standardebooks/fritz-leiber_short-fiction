@@ -154,3 +154,7 @@ footer{
 	margin-top: 1em;
 	text-align: right;
 }
+
+#friends-and-enemies blockquote{
+	font-style: italic;
+}

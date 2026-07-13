@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="appointment-in-tomorrow.xhtml">
+		<ignore code="y-038">
+			<line>20</line>
+			<line>28</line>
+			<reason>Matches are a special name for a robot and not a typo.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
